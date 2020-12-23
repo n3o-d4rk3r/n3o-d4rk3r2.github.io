@@ -122,11 +122,11 @@ h2, .h2 {
 }
 
 h3, .h3 {
-  font-size: 2.9rem;
+  font-size: 38px;
 }
 
 h4, .h4 {
-  font-size: 2.133rem;
+  font-size: 35px;
 }
 
 h5, .h5 {
@@ -270,8 +270,8 @@ p {
   font-weight: 500;
   overflow: hidden;
   position: relative;
-  border-radius: 5px;
-  padding: 18px 36px;
+  border-radius: 3px;
+  padding: 11px 29px;
   display: inline-block;
   text-transform: capitalize;
   background: #8bc34a;
@@ -927,7 +927,7 @@ p {
   width: 42px;
   color: #fff;
   line-height: 42px;
-  border-radius: 5px;
+  border-radius: 3px;
   margin-right: 10px;
   background: #8bc34a;
   display: inline-block;
@@ -977,7 +977,7 @@ p {
   text-transform: capitalize;
   color: #54595F;
   margin-bottom: 15px;
-  font-size: 50px;
+  font-size: 35px;
 }
 
 .hero-banner .hero-inner h1 #typed-text, .hero-banner .hero-inner h1 .typed-cursor {
@@ -1214,7 +1214,7 @@ p {
   padding: 30px;
   margin-bottom: 30px;
   background: #fff;
-  border-radius: 10px;
+  border-radius: 3px;
   -webkit-transition: all 0.1s linear;
   transition: all 0.25s linear;
   -webkit-box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.08);
@@ -1272,7 +1272,7 @@ background: #54595F;
   margin-left: 0;
   font-size: 45px;
   background: transparent;
-  border-radius: 10px;
+  border-radius: 3px;
   display: inline-block;
   margin-bottom: 20px;
   line-height: 90px;
@@ -1289,7 +1289,7 @@ background: #54595F;
   padding: 30px;
   margin-bottom: 30px;
   background: #fff;
-  border-radius: 10px;
+  border-radius: 3px;
   -webkit-transition: all 0.25s linear;
   transition: all 0.25s linear;
   -webkit-box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.08);
@@ -1313,7 +1313,7 @@ background: #54595F;
   margin-left: 0;
   font-size: 45px;
   background: transparent;
-  border-radius: 10px;
+  border-radius: 3px;
   display: inline-block;
   margin-bottom: 20px;
   line-height: 90px;
@@ -1417,7 +1417,7 @@ background: #54595F;
   margin-left: 0;
   font-size: 45px;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 3px;
   display: inline-block;
   margin-bottom: 20px;
   line-height: 90px;
@@ -1474,7 +1474,7 @@ background: #54595F;
   margin-left: 0;
   font-size: 45px;
   background: #8bc34a;
-  border-radius: 10px;
+  border-radius: 3px;
   display: inline-block;
   margin-bottom: 20px;
   line-height: 90px;
@@ -1498,9 +1498,9 @@ background: #54595F;
   margin-right: 15px;
   color: #54595F;
   text-align: center;
-  border-radius: 5px;
+  border-radius: 3px;
   font-weight: 500;
-  padding: 10px 30px;
+  padding: 8px 28px;
   text-transform: capitalize;
   -webkit-transition: initial;
   transition: initial;
@@ -1558,7 +1558,7 @@ background: #54595F;
   height: 100%;
   position: absolute;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 3px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1606,7 +1606,7 @@ background: #54595F;
   text-align: center;
   line-height: 60px;
   color: #8bc34a;
-  border-radius: 5px;
+  border-radius: 3px;
   margin-right: 5px;
   -webkit-transition: all 0.25s linear;
   transition: all 0.25s linear;
@@ -1919,7 +1919,7 @@ background: #54595F;
   border: none;
   display: block;
   color: #54595F;
-  padding: 17px 20px;
+  padding: 8px 11px;
   background: #fff;
   border-radius: 5px;
   border: 1px solid #e0e0e0;

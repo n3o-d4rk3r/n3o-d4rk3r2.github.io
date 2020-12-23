@@ -53,7 +53,7 @@ $(document).ready(function() {
             e.keyCode === 115 || 
             e.keyCode === 19 || 
             e.keyCode === 117)) {
-            alert('not allowed');
+            alert('Copy not allowed! Ha Ha');
             return false;
         } else {
             return true;
