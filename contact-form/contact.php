@@ -1,12 +1,19 @@
-<?php 
-$contact_name = $_POST['contact_name'];
-$contact_email = $_POST['contact_email'];
-$contact_message = $_POST['contact_message'];
-$contact_formcontent="From: 
-$contact_name \n Message: $contact_message";
-$contact_recipient = "sorkerbappy5001@gmail.com";
-$contact_subject = "Contact Form";
-$mailheader = "From: $contact_emailemail \r\n";
-mail($recipient, $contact_subject, $contact_formcontent, $mailheader) or die("Error!");
-echo "Thank You!";
+<?php
+}
+else/* send the submitted data */
+}
+$name=$_REQUEST['name'];
+$email=$_REQUEST['email'];
+$message=$_REQUEST['message'];
+if (($name=="")||($email=="")||($message==""))
+{
+echo "All fields are required, please fill <a href=\"\">the form</a> again.";  
+}
+else
+$from="From: $name\r\nReturn-path: $email";
+$subject="Message sent using your contact form";
+mail("sorkerbappy5001@gmail.com", $subject, $message, $from);
+echo "Email sent!";
+}
+}
 ?>
