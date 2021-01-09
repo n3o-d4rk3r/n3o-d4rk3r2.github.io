@@ -1,6 +1,6 @@
 <?php
 }
-else/* send the submitted data */
+else
 }
 $name=$_REQUEST['name'];
 $email=$_REQUEST['email'];
