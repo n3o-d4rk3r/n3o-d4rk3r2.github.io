@@ -1,6 +1,6 @@
 /*
-	01) Magnific Popup
-	02) Popper
+  01) Magnific Popup
+  02) Popper
   03) Bootstrap
   04) Jarallax Elements
   05) Jarallax
@@ -24,9 +24,6 @@
 /*	01) Magnific Popup
 /*------------------------------------------------------------------*/
 
-/*! Magnific Popup - v1.1.0 - 2016-02-20
- * http://dimsemenov.com/plugins/magnific-popup/
- * Copyright (c) 2016 Dmitry Semenov; */
 ! function(a) {
     "function" == typeof define && define.amd ? define(["jquery"], a) : a("object" == typeof exports ? require("jquery") : window.jQuery || window.Zepto)
 }(function(a) {
