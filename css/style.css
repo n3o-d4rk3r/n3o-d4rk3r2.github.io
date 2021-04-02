@@ -271,17 +271,30 @@ p {
   overflow: hidden;
   position: relative;
   border-radius: 3px;
-  padding: 11px 29px;
+  padding: 8px 29px;
   display: inline-block;
   text-transform: capitalize;
   background: #8bc34a;
-  -webkit-transition: all 0.25s linear;
-  transition: all 0.25s linear;
+  -webkit-transition: all 0.10s linear;
+  transition: all 0.10s linear;
+}
+
+
+#profile-btn {
+  color: #fff;
+  border-radius: 3px;
+  padding: 0px 11px;
+  text-transform: capitalize;
+  background: #8bc34a;
+  -webkit-transition: all 0.10s linear;
+  transition: all 0.10s linear;
+
 }
 
 .default-orange-btn:hover {
   color: #fff;
   background: #8bc34a;
+  border-radius: 3px;
   -webkit-animation: pulseOrange 1s 1 linear;
           animation: pulseOrange 1s 1 linear;
 }
@@ -1643,6 +1656,10 @@ background: #54595F;
     margin-top: 0;
   }
 }
+
+
+
+
 
 /* ------------------------------------------------------------------- */
 /* 16.Testimonial
