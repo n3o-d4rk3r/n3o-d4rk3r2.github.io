@@ -100,7 +100,9 @@ textarea, textarea:focus, input, input:focus, button, button:focus {
   outline: none;
   resize: inherit;
 }
-
+.zoom {
+  zoom: 80%;
+}
 /* ---------------------------------------------------------------- */
 /* 02.Typography                               
 /* ---------------------------------------------------------------- */
