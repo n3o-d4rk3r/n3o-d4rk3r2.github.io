@@ -291,6 +291,14 @@ p {
 
 }
 
+#profile-btn:hover {
+  color: #fff;
+  background: #8bc34a;
+  border-radius: 3px;
+  -webkit-animation: pulseOrange 1s 1 linear;
+          animation: pulseOrange 1s 1 linear;
+}
+
 .default-orange-btn:hover {
   color: #fff;
   background: #8bc34a;
