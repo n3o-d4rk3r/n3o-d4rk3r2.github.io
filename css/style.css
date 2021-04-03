@@ -288,6 +288,21 @@ p {
 
 }
 
+/*
+#profile-btn {
+  color: #8bc34a;
+  border-radius: 3px;
+  padding: 0px 11px;
+  text-transform: capitalize;
+  border: 2px;
+  border-style:solid;
+  border-width:3px;  
+  border-color:#8bc34a;
+  -webkit-transition: all 0.10s linear;
+  transition: all 0.10s linear;
+}
+*/
+
 #profile-btn:hover {
   color: #fff;
   background: #8bc34a;
