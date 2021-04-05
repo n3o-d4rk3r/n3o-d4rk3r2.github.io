@@ -1,3 +1,13 @@
+/*!
+ * 
+ *   Plugins.js - A JavaScript Plugins Library
+ *   Author: Aryan Kabir
+ *   Version: v2.0.9
+ *   Url: https://github.com/n3o-d4rk3r
+ *   License(s): MIT
+ * 
+ */
+
 /*
 	01) Magnific Popup
 	02) Popper
